@@ -1,20 +1,18 @@
 # les6
-test
+
 ## dit is een kleine kop
+
 ### kleiner denk ik?
-- eerste
-- tweede
-- derde
-- vierde 
+- hallo
+- mijn
+- naam is
+- fox
 
-* links
-* rechts
-* rechtdoor
-
-1. een
-2. twee
-3. drie
+* dit is github denk ik
+* leuk 
+* why not
 
 [mijn website](36639.hosts2.ma-cloud.nl)
 
 ![yoda afbeelding](download.jpg)
+* dit is mijn favoriete character 
